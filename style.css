@@ -11,8 +11,6 @@ body {
     flex-direction: column;
 }
 
-
-
 /*header*/
 
 header {
@@ -109,7 +107,7 @@ img {
 
 .middle-2 {
     background-color: #b1b7c3;
-    font-size: 24x;
+    font-size: 20px;
     font-style: italic;
     font-style: light;
     padding: 40px;
@@ -124,3 +122,33 @@ p {
     text-align: right;
     font-weight: bold;
 }
+
+/*middle-2*/
+/*bottom*/
+
+.white {
+    background: #F9FAF8;
+}
+
+.bottom {
+    display: flex;
+    background-color: #3882F6;
+    color:#F9FAF8;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    padding: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 220px;
+    margin-right: 220px;
+    border-radius: 20px;
+}
+
+.call {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/*skipped sign up button and the footer*/
+
