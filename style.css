@@ -128,6 +128,8 @@ p {
 
 .white {
     background: #F9FAF8;
+    display: flex;
+    justify-content: center;
 }
 
 .bottom {
